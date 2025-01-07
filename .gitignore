@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+downloaded_books*/
+download_log.txt
+*_links.txt
+.env
